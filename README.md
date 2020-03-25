@@ -41,8 +41,10 @@ Then select and open ```Lab4_OOP.sln```
 ---
 
 ### Change Log
-***[The change log will list any changes made to the code base. This includes any changes from TA/Instructor feedback]***  
+
 1.3: *Added Interfaces - 3/25/2020 
-1.2: *Created all Classes - 3/24/2020  
+
+1.2: *Created all Classes - 3/24/2020 
+
 1.1: *Created architecture - 3/23/2020
 
