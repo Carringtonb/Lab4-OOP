@@ -1,10 +1,9 @@
 ﻿using System;
 namespace Lab4_OOP.Classes
 {
-    public class HasWings
+    public abstract class HasWings : Land
     {
-        public HasWings()
-        {
-        }
+        public bool HaveWings { get; set; } = true;
+       
     }
 }

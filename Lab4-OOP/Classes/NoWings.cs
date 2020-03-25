@@ -1,10 +1,11 @@
 ﻿using System;
 namespace Lab4_OOP.Classes
 {
-    public class NoWings
+    public abstract class NoWings : Mythical
     {
-        public NoWings()
+       public virtual void GroundBB()
         {
+            Console.WriteLine("Im a little ground/water bb");
         }
     }
 }

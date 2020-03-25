@@ -1,10 +1,14 @@
 ﻿using System;
 namespace Lab4_OOP.Classes
 {
-    public class Exists
+    public abstract class Exists : Animal
     {
-        public Exists()
+        public override abstract int NumOfLegs { get; set; }
+        public override abstract bool HasTeeth { get; set; }
+        public override abstract string Diet { get; set; }
+        public void ImFlying()
         {
+            Console.WriteLine("Im a real boy");
         }
     }
 }
