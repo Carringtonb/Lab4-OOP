@@ -3,7 +3,7 @@ using Lab4_OOP.Interfaces;
 
 namespace Lab4_OOP.Classes
 {
-    class Dragon : HasWings, ISpeak, IFly
+    public class Dragon : HasWings, ISpeak, IFly
     {
         public int NumWings { get; set; }
         public double Lift { get; set; }

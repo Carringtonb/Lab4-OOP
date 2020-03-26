@@ -3,7 +3,7 @@ using Lab4_OOP.Interfaces;
 
 namespace Lab4_OOP.Classes
 {
-    class Mermaid : NoWings , ISpeak
+   public class Mermaid : NoWings , ISpeak
     {
         public override int NumOfLegs { get; set; } = 0;
         public override bool HasTeeth { get; set; } = true;

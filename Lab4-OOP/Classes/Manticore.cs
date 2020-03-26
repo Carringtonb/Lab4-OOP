@@ -3,7 +3,7 @@ using Lab4_OOP.Interfaces;
 
 namespace Lab4_OOP.Classes
 {
-    class Manticore : HasWings, ISpeak, IFly
+    public class Manticore : HasWings, ISpeak, IFly
     {
         public Manticore()
         {

@@ -3,7 +3,7 @@ using Lab4_OOP.Interfaces;
 
 namespace Lab4_OOP.Classes
 {
-    class Eagle : Water, IFly
+   public class Eagle : Water, IFly
     {
         public override int NumOfLegs { get; set; } = 2;
         public override bool HasTeeth { get; set; } = true;

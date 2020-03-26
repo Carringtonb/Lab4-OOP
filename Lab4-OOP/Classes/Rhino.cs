@@ -3,7 +3,7 @@ using Lab4_OOP.Interfaces;
 
 namespace Lab4_OOP.Classes
 {
-    class Rhino : Land, ISpeak
+    public class Rhino : Land, ISpeak
     {
         public Rhino()
         {
