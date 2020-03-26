@@ -34,7 +34,7 @@ Then select and open ```Lab4_OOP.sln```
 
 ### Visuals
 #### Hierarchy Diagram
-![Zoo hierarchy.pdf](https://github.com/Carringtonb/401-DSA/files/4384482/Zoo.hierarchy.pdf)
+![Zoo hierarchy](https://user-images.githubusercontent.com/58369033/77600355-eb62fd80-6ec4-11ea-9c6e-51fdbb93bae8.png)
 #### Application in terminal
 ![ZooTerminal](https://user-images.githubusercontent.com/58369033/77584660-6f56be80-6ea0-11ea-92fe-a47080bb8660.png)
 #### Using the Application
