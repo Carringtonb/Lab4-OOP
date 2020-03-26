@@ -42,6 +42,12 @@ Then select and open ```Lab4_OOP.sln```
 
 ---
 
+### Interfaces
+
+* Interfaces are inherited behaviors for classes to show what classes *can* do.
+* The interfaces in this program allow the instantiated animals to either speak, fly, or both.
+
+
 ### Change Log
 
 1.3: *Added Interfaces - 3/25/2020 
